@@ -1,0 +1,33 @@
+section {
+    background-color: rgb(245, 233, 253);
+}
+
+h1 {
+    color: rgb(24, 24, 24);
+    font-family: fantasy;
+}
+
+p {
+    font-family: sans-serif;
+    color: rgb(255, 96, 96);
+}
+
+input {
+    border-radius: 5px;
+    border: none;
+    max-width: 50px;
+}
+
+.selecoes {
+    background-color: rgb(246, 193, 251);
+    border-color: rgb(196, 142, 247);
+    max-width: 500px;
+}
+
+.selecoes label{
+    color: white;
+}
+
+.selecoes input {
+    background-color: rgb(245, 222, 247);
+}
